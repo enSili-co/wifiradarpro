@@ -1,7 +1,7 @@
 <p align=center>
   <img height="150px" src="https://github.com/enSili-co/wifiradar pro/raw/main/images/logo.png"/>
 </p>
-<h1 align=center>WifiRadar Pro for Mac</h1>
+<h1 align=center>WiFiRadar Pro for Mac</h1>
 <p align=center>
   Scan, monitor and troubleshoot any wireless network.<br>The go-to WiFi analyzer for Mac.
 </p>
