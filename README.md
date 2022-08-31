@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://s3.amazonaws.com/ensili.co/markdownplus-2.1.zip
+▶︎ https://wifiradarpro.s3.amazonaws.com/WiFiRadarPro-2.4b1453.zip
 
 # Official Website
 
