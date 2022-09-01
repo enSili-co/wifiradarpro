@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://wifiradarpro.s3.amazonaws.com/WiFiRadarPro-2.4b1453.zip
+▶︎ https://cdn.ensili.co/download/wifiradarpro/wifiradarpro-3.4.zip
 
 # Official Website
 
