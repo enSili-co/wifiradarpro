@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://cdn.ensili.co/download/wifiradarpro/wifiradarpro-3.4.zip
+▶︎ https://cdn.ensili.co/download/wifiradarpro/wifiradarpro-3.4.1.zip
 
 # Official Website
 
