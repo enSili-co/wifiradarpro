@@ -1,4 +1,8 @@
 @charset "UTF-8";
+.light-bg {
+  background-color: #eee !important;
+}
+
 /*
 
 Style   : MobApp CSS
@@ -218,10 +222,10 @@ header {
 }
 
 .bg-gradient {
-  background-image: -moz-linear-gradient(135deg, #0a7c01 0%, #0A6B01 100%);
-  background-image: -webkit-linear-gradient(135deg, #0a7c01 0%, #0A6B01 100%);
-  background-image: -ms-linear-gradient(135deg, #0a7c01 0%, #0A6B01 100%);
-  background-image: linear-gradient(135deg, #0a7c01 0%, #0A6B01 100%);
+  background-image: -moz-linear-gradient(135deg, #020 0%, #0A6B01 100%);
+  background-image: -webkit-linear-gradient(135deg, #020 0%, #0A6B01 100%);
+  background-image: -ms-linear-gradient(135deg, #020 0%, #0A6B01 100%);
+  background-image: linear-gradient(135deg, #020 0%, #0A6B01 100%);
 }
 
 .tagline {
@@ -254,10 +258,10 @@ header {
 /* FEATURES
 ----------------------*/
 .gradient-fill:before {
-  color: #b901c8;
-  background: -moz-linear-gradient(top, #8a0195 0%, #b901c8 100%);
-  background: -webkit-linear-gradient(top, #8a0195 0%, #b901c8 100%);
-  background: linear-gradient(to bottom, #8a0195 0%, #b901c8 100%);
+  color: #0A6B01;
+  background: -moz-linear-gradient(top, #020 0%, #0A6B01 100%);
+  background: -webkit-linear-gradient(top, #020 0%, #0A6B01 100%);
+  background: linear-gradient(to bottom, #020 0%, #0A6B01 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -282,10 +286,10 @@ header {
   content: "";
   position: absolute;
   width: 3px;
-  color: #b901c8;
-  background: -moz-linear-gradient(top, #8a0195 0%, #b901c8 100%);
-  background: -webkit-linear-gradient(top, #8a0195 0%, #b901c8 100%);
-  background: linear-gradient(to bottom, #8a0195 0%, #b901c8 100%);
+  color: #0A6B01;
+  background: -moz-linear-gradient(top, #020 0%, #0A6B01 100%);
+  background: -webkit-linear-gradient(top, #020 0%, #0A6B01 100%);
+  background: linear-gradient(to bottom, #020 0%, #0A6B01 100%);
   top: 0;
   bottom: 0;
   left: 0;
