@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>WiFiRadar Pro for Mac</h1>
 <p align=center>
-  Scan, monitor and troubleshoot any wireless network.<br>The go-to WiFi analyzer for Mac.
+  Scan, analyze, and optimize wireless networks with the ultimate WiFi analyzer for Mac.
 </p>
 
 

@@ -1,5 +1,5 @@
 {
-  "name": "WiFiRadar Pro: Wireless monitoring on steroids",
+  "name": "WiFiRadar Pro: Wireless monitoring made powerful and simple.",
   "icons": [
     {
       "src": "favico/android-icon-36x36.png",
@@ -39,7 +39,7 @@
     }
   ],
   "short_name": "WiFiRadar Pro",
-  "description": "Scan, monitor and troubleshoot any wireless network. The go-to WiFi analyzer for Mac.",
+  "description": "WiFiRadar Pro is the ultimate WiFi analyzer for Mac. Scan, monitor, and troubleshoot wireless networks with precision. Perfect for optimizing home, office, or enterprise networks.",
   "start_url": "/",
   "display": "standalone"
 }
